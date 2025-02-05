@@ -1,4 +1,4 @@
-package com.marcio.sudoku.model;
+package main.java.com.marcio.sudoku.model;
 
 public enum GameStatusEnum {
 

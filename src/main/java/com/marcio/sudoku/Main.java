@@ -3,15 +3,14 @@ package com.marcio.sudoku;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
-import static java.util.Objects.isNull;
-import static java.util.Objects.nonNull;
 import java.util.Scanner;
-import static java.util.stream.Collectors.toMap;
 import java.util.stream.Stream;
-
 import com.marcio.sudoku.model.Board;
 import com.marcio.sudoku.model.Space;
+import static java.util.Objects.isNull;
+import static java.util.stream.Collectors.toMap;
 import static com.marcio.sudoku.util.BoardTemplate.BOARD_TEMPLATE;
+import static java.util.Objects.nonNull;
 
 public class Main {
 

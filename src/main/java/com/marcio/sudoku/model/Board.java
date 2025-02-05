@@ -4,7 +4,6 @@ import java.util.Collection;
 import java.util.List;
 import static java.util.Objects.isNull;
 import static java.util.Objects.nonNull;
-
 import static com.marcio.sudoku.model.GameStatusEnum.COMPLETE;
 import static com.marcio.sudoku.model.GameStatusEnum.INCOMPLETE;
 import static com.marcio.sudoku.model.GameStatusEnum.NON_STARTED;
